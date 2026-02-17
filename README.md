@@ -16,7 +16,7 @@ $$h(N) \le N^{1/2} + C N^{1/4} + O(1).$$
 | Candidate clean | `rounding.py` | Six-decimal parameters ready for verification |
 | Certified | `paranoid.py`, `certify.py`, `cert_check.py` | Full LP witness bundle |
 
-Quick links: [Methodology](docs/methodology.md) · [TeX submission](Attacks/MO_problems/opus/30.tex) · [Certified data](records/certified/record_1771350836_46537e4f6f8d/)
+Quick links: [Certified data](records/certified/record_1771350836_46537e4f6f8d/)
 
 ## 🚀 Quick Start
 
