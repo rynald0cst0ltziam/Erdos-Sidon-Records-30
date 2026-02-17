@@ -72,10 +72,46 @@ The system uses a **three-tier reliability model** to ensure publication-grade r
 *   **`records/top_k.json`**: Summary of the best records and candidates.
 *   **`records/certified/`**: Formal certification bundles containing thousands of LP certificates. The newest bundle `record_1771350836_46537e4f6f8d/` certifies $C \le 0.98172529686$ with 19,736 LP certificates and dual reconstructions.
 
-## 📄 Research Documentation
+## 📚 Citation & Attribution
 
-*   **`research_paper.md`**: Human-readable markdown version of the findings.
-*   **`research_paper.tex`**: Publication-ready LaTeX manuscript.
+This project studies Erdős Problem #30 on Sidon sets and the constant 
+𝐶
+C in
+
+ℎ
+(
+𝑁
+)
+≤
+𝑁
+1
+/
+2
++
+𝐶
+𝑁
+1
+/
+4
++
+𝑂
+(
+1
+)
+.
+h(N)≤N
+1/2
++CN
+1/4
++O(1).
+
+When referring to this problem in academic work, please cite the original sources of Paul Erdős.
+
+If you wish to acknowledge the online problem archive, use:
+
+T. F. Bloom, Erdős Problem #30,
+https://www.erdosproblems.com/30
+, accessed 2026-02-17.
 
 ---
 
