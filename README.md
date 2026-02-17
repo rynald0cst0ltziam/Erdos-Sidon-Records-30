@@ -1,4 +1,4 @@
-# Sidon Set Record Search & Certification Engine
+# Sidon Record Search & Certification Engine
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Certified](https://img.shields.io/badge/C≤0.98173-certified-blue)
